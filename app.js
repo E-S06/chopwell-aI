@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
         e.preventDefault();
         
         // Failsafe in case you forget to paste the key before deploying
-        if (!DEMO_API_KEY || DEMO_API_KEY === "YOUR_DISPOSABLE_API_KEY_HERE") {
+        if (!DEMO_API_KEY || DEMO_API_KEY === "AQ.Ab8RN6I3ZHoiB346z8cRChUy8pRUpyPqLJ-9086PbDDColZW_w") {
             alert('Please insert the disposable API key into app.js before testing.');
             return;
         }
