@@ -1,7 +1,7 @@
 // WARNING: This is a shared, disposable demo key for the competition judges only.
 // Ensure you delete or rotate this key from Google AI Studio after the demo ends.
 // Do not use this method (hardcoding keys in the frontend) for production applications.
-const DEMO_API_KEY = 'QVEuQWI4Uk42SWhCSXhSSi1XbnpELUpUckNhZ0YxWjhaV2NiSTJVR3h4TW5MM1dkd0hrdVE=';
+const DEMO_API_KEY ="QVEuQWI4Uk42S0FMb2p2VnBPeWxveVByeWlwVmxqSFZqTTVHWFgtS3lhRHE1emZyb1NDbUE=";
 
 document.addEventListener('DOMContentLoaded', () => {
     const form = document.getElementById('mealForm');
